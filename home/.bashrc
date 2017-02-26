@@ -80,7 +80,8 @@ fi
 
 # git alias
 alias g='git'
-  
+
+alias vi='vim'
 
 # some more ls aliases
 alias ll='ls -l'
